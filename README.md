@@ -20,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keidisos&layout=compact&theme=radical&langs_count=8" height="180" alt="Langages" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keidisos&theme=radical" alt="Keidisos Streak" />
-</div>
-
 ---
 
 ### ✍️ Citation aléatoire
