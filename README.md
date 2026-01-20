@@ -2,7 +2,7 @@
 
 🗺️ **Étudiant en M2 Cybersécurité** (RNCP 34471) à *Sup de Vinci Bordeaux*.<br>
 👨‍💼 **Alternant chez EDF** (CNPE du Blayais) en tant qu'appui RSSI.<br>
-🛡️ **Domaines :** Gestion & Télécommunications, Protection de Site, SecOps.
+🛡️ **Domaines :** Gestion & Télécommunications, Protection de Site.
 
 ---
 
