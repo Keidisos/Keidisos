@@ -16,8 +16,8 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keidisos&show_icons=true&theme=radical&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keidisos&layout=compact&theme=radical&langs_count=8" height="180" alt="Langages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keidisos&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keidisos&layout=compact&theme=radical&langs_count=8" height="180" alt="Langages" />
 </div>
 
 ---
