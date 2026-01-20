@@ -14,7 +14,6 @@
 ---
 
 ### 📊 Mes Statistiques GitHub
-
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keidisos&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keidisos&layout=compact&theme=radical&langs_count=8" height="180" alt="Langages" />
@@ -24,3 +23,10 @@
 
 ### ✍️ Citation aléatoire
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🐍 Snake
+<div align="center">
+  <img src="https://github.com/Keidisos/Keidisos/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
