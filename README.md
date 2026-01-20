@@ -26,7 +26,7 @@
 
 ---
 
-### 🐍 Snake
+### 🐍 Le Serpent de Contributions
 <div align="center">
   <img src="https://github.com/Keidisos/Keidisos/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
